@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Регистратор визитов</string>
+    <string name="new_visit">Добавить визит</string>
+    <string name="outlet_adres_label">Адрес:</string>
+    <string name="outlet_name_label">Наименование:</string>
+    <string name="save">Сохранить</string>
+    <string name="selected_button">Выбор</string>
+    <string name="send_button">отпр. по FTP</string>
+    <string name="take">Сфотографировать</string>
+    <string name="visit_date_label">Дата визита:</string>
+    <string name="visit_outlet_label">Торговая точка:</string>
+    <string name="outlet_client_label">Клиент:</string>
+    
+    <string name="user_name_preference">Пользователь:</string>
+	<string name="password_preference">Пароль:</string>
+	<string name="preference">Настройки</string>
+	<string name="preferenceTestConnect">проверить FTP</string>
+	
+	<string name="preferenceTestOK">Все хорошо</string>
+	<string name="preferenceNoConnect">Нет соединения</string>
+	<string name="preferenceWrongUserOrPassword">Неправильный пароль или логин!!!</string>
+	
+	<string name="send">отправлен</string>
+	
+	<string name="sendOutlet">Отправить торговые точки на FTP</string>
+	<string name="getOutlet">Получить торговые точки с FTP</string>
+	<string name="getOutletOk">торговые точки получены</string>	
+	<string name="sendOutletOk">торговые точки отправлены</string>
+	<string name="failure">неполучилось</string>
+
+</resources>

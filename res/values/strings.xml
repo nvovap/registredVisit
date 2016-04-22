@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VisitRegisration</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="new_visit">Add visit</string>
+	<string name="visit_outlet_label">Outlet:</string>
+	<string name="visit_outlet_hint"></string>
+	<string name="selected_button">V</string>
+	<string name="send_button">send FTP</string>
+	<string name="visit_date_label">Visit date:</string>
+	<string name="take">Take!</string>
+	<string name="save">Save</string>
+	<string name="outlet_name_label">Name:</string>
+	<string name="outlet_adres_label">Address:</string>	
+	<string name="outlet_client_label">Client:</string>
+	
+	<string name="user_name_preference">User:</string>
+	<string name="password_preference">Password:</string>
+	<string name="preference">Preference</string>
+	<string name="preferenceTestConnect">Test connect FTP</string>
+	
+	<string name="preferenceTestOK">Test OK</string>
+	<string name="preferenceNoConnect">No connect</string>
+	<string name="preferenceWrongUserOrPassword">Wrong user or password!!!</string>
+	
+	<string name="send">send</string>
+	
+	<string name="sendOutlet">Send file Outlet</string>
+	<string name="getOutlet">Get file Outlet</string>	
+	<string name="sendOutletOk">send Outlet to FTP OK</string>
+	<string name="failure">failure</string>
+	
+	<string name="search">search</string>
+	<string name="clear_search">clear</string>
+	<string name="search_hint"></string>
+	
+	
+</resources>
